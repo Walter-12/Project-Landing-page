@@ -1,0 +1,32 @@
+body{
+    height: 100vh;
+    margin: 0 30px;
+    font-family: Roboto, sans-serif;
+   /* background-color: black;*/   
+}
+
+.header,.footer{
+    background-color: #1F2937; 
+    padding: 20px;
+    margin:0 10px;
+}
+
+.container{
+    margin: 0;
+    padding: 20px;
+
+}
+
+.quote{
+    background-color: #E5E7E8;
+    margin: 0;
+    padding: 20px;
+
+}
+
+.content{
+    margin: 0;
+    padding: 20px;
+
+}
+
